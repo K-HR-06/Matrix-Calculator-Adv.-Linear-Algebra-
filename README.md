@@ -1,9 +1,9 @@
 Daftar Anggota Kelompok AOL ini:
-1. Anthony - 2702377612
-2. Hazel Z. Adityo - 2702329576
-3. Marcell Prasetyo - 2702229895
-4. Satya D. Padmakumara - 2702244662
-5. Siddharta R. Wallace - 2702215233
+1. Anthony
+2. Hazel Z. Adityo
+3. Marcell Prasetyo
+4. Satya D. Padmakumara
+5. Siddharta R. Wallace
 
 Ada 5 Folder di dalam ZIP ini
 1. Diagonalizable Matrix
